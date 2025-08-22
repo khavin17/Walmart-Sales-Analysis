@@ -16,7 +16,7 @@ Dataset sudah dicek:
 ## 📊 Insight Utama
 - Penjualan terendah di Januari **$0.92M USD**, tertinggi di Desember **$1.28M USD**.  
 - Minggu libur mendorong penjualan lebih tinggi (**$1.12M vs $1.04M USD**).  
-- Harga bahan bakar mencapai **$4.47/l**, namun tidak memengaruhi tren penjualan secara signifikan.  
+- Harga bahan bakar mencapai **$4.47/L**, namun tidak memengaruhi tren penjualan secara signifikan.  
 - Penjualan mingguan maksimum tercatat **$3.82M**.  
 
 ## 📌 Tools
