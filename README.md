@@ -1,6 +1,6 @@
 # Walmart-Sales-Analysis
 Analisis penjualan mingguan Walmart dengan fokus pada tren musiman, peran minggu libur, serta pengaruh harga bahan bakar.  
-Project ini mencakup eksplorasi data, validasi, visualisasi, serta pembuatan dashboard di Power BI.
+Project ini mencakup validasi data dan visualisasi menggunakan dashboard interaktif di Power BI.
 
 ## 📂 Struktur Repo
 - **data/** → data raw/cleaned  
