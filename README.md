@@ -5,7 +5,7 @@ Project ini mencakup validasi data dan visualisasi menggunakan dashboard interak
 ## 📂 Struktur Repo
 - **data/** → data raw/cleaned  
 - **notebooks/** → notebook eksplorasi  
-- **dashboard/** → file Power BI
+- **dashboard/** → Power BI/pdf preview
 
 ## 🔍 Data Validation
 Dataset sudah dicek:  
