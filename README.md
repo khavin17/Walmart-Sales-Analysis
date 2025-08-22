@@ -12,7 +12,7 @@ Dataset sudah dicek:
 - ✅ Tidak ada nilai null  
 - ✅ Tidak ada duplikasi  
 - ✅ Tipe data sudah sesuai (tanggal → datetime, penjualan → numeric)
-- 
+
 ## 📊 Insight Utama
 - Penjualan terendah di Januari **$0.92M USD**, tertinggi di Desember **$1.28M USD**.  
 - Minggu libur mendorong penjualan lebih tinggi (**$1.12M vs $1.04M USD**).  
